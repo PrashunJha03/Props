@@ -8,6 +8,7 @@ function Home(props) {
         <h2>You Leave in this Home {props.name}</h2>
         
     </div>
+  
   )}
 
   export default Home
